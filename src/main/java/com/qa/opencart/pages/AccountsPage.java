@@ -57,7 +57,6 @@ public class AccountsPage {
 	{
 		return eleUtil.waitForElementsVisible(accHeaders, AppConstants.MEDIUM_TIME_OUT).size();
 		
-	
 		
 	}
 	
