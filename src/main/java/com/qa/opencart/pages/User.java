@@ -4,12 +4,20 @@ public class User {
 	
 	public void m1()
 	{
-		int a =30;
+
+		double a = 12.44;
+		double b = 56.89;
 	}
-	public void m2()
+	public int m2()
 	{
-		int a =34;
+		String p = "selenium";
+		return 123;
+	
 	}
 
 
-}
+		
+	}
+
+
+
