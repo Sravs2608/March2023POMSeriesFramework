@@ -23,7 +23,7 @@ public class LoginPage {
 	private By registerLink =  By.linkText("Register");
 	private By Sravani = By.linkText("Sravanj");
 	
-	// Git branch practice - feature/login-test
+	// // Developer A change
 	
 	//2.public page constructor
 	public LoginPage(WebDriver driver)
