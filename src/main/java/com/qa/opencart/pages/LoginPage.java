@@ -23,7 +23,7 @@ public class LoginPage {
 	private By registerLink =  By.linkText("Register");
 	private By Sravani = By.linkText("Sravanj");
 	
-	// // Developer B change
+	// Developer A and B changes combined
 	
 	//2.public page constructor
 	public LoginPage(WebDriver driver)
